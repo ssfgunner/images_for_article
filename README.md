@@ -1,2 +1,2 @@
 # images_for_article
-images change for ICASSP 2021
+images for paper TJU SYSTEM FOR THE VOXCELEB SPEAKER RECOGNITION CHALLENGE
